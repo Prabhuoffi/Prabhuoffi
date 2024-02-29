@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-nine-rho.vercel.app/](https://personal-portfolio-nine-rho.vercel.app/)
 
-- 💬 Ask me about **html,css.javascript,react,php,nodejs,expressjs,mongodb**
+- 💬 Ask me about **html,css,javascript,react,php,nodejs,expressjs,mongodb**
 
 - 📫 How to reach me **prabhudeveloper03@gmail.com**
 
