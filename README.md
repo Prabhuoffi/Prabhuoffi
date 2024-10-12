@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/Prabhuoffi/Prabhuoffi/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Prabhu  final year Computer science Engineering student</h1>
+<h1 align="center">Hi 👋, I'm Prabhu Computer science Engineering student</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 
